@@ -1,0 +1,13 @@
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\APP Simples Para Cadastro de Series\APP.Series\bin\Debug\netcoreapp3.1\APP.Series.exe
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\APP Simples Para Cadastro de Series\APP.Series\bin\Debug\netcoreapp3.1\APP.Series.deps.json
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\APP Simples Para Cadastro de Series\APP.Series\bin\Debug\netcoreapp3.1\APP.Series.runtimeconfig.json
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\APP Simples Para Cadastro de Series\APP.Series\bin\Debug\netcoreapp3.1\APP.Series.runtimeconfig.dev.json
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\APP Simples Para Cadastro de Series\APP.Series\bin\Debug\netcoreapp3.1\APP.Series.dll
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\APP Simples Para Cadastro de Series\APP.Series\bin\Debug\netcoreapp3.1\APP.Series.pdb
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\APP Simples Para Cadastro de Series\APP.Series\obj\Debug\netcoreapp3.1\APP.Series.csprojAssemblyReference.cache
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\APP Simples Para Cadastro de Series\APP.Series\obj\Debug\netcoreapp3.1\APP.Series.AssemblyInfoInputs.cache
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\APP Simples Para Cadastro de Series\APP.Series\obj\Debug\netcoreapp3.1\APP.Series.AssemblyInfo.cs
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\APP Simples Para Cadastro de Series\APP.Series\obj\Debug\netcoreapp3.1\APP.Series.csproj.CoreCompileInputs.cache
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\APP Simples Para Cadastro de Series\APP.Series\obj\Debug\netcoreapp3.1\APP.Series.dll
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\APP Simples Para Cadastro de Series\APP.Series\obj\Debug\netcoreapp3.1\APP.Series.pdb
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\APP Simples Para Cadastro de Series\APP.Series\obj\Debug\netcoreapp3.1\APP.Series.genruntimeconfig.cache
